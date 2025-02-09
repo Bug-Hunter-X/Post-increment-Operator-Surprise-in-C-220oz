@@ -1,0 +1,1 @@
+This repository showcases a subtle but common error related to the post-increment operator in C.  The `bug.c` file contains code that produces unexpected output due to this operator's behavior.  The correct output and explanation are found in `bugSolution.c` and the accompanying comments.
